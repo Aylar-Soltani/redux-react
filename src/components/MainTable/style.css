@@ -1,0 +1,47 @@
+.tablerow td{
+    text-align: center;
+  }
+  table, td{
+    vertical-align: middle !important;
+  }
+  
+/*   
+  * .App {
+    text-align: center;
+    margin-left: 2000px;
+  }
+  /* *{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 247, 248);
+    
+  } */
+  table{
+    margin: 2rem auto;
+    max-width: 800px;
+    text-align: center; 
+    padding:50px !important;
+  }
+  /* }
+  table, th, td {
+    border: 1px solid rgba(37, 36, 36, 0.767);
+    background-color:white;
+    vertical-align: middle;
+  }
+  tr, td{
+    width:50px;
+    height: 40px;
+    vertical-align: middle;
+  }
+  th{
+    width:50px;
+    background-color: rgb(112, 124, 124);
+    vertical-align: middle;
+    font-weight: bold;
+  }
+  td {
+    height: 50px;
+    vertical-align: middle;
+  }
+  
+   */ 
